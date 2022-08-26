@@ -1,7 +1,6 @@
 # image-to-text-to-speech
 
-<img width="873" alt="image" src="https://user-images.githubusercontent.com/90207903/186876053-d508c405-d8c0-43e4-b7fb-52bdf75af1e3.png">
-
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/90207903/186877295-d62d5679-15de-43c4-b6e6-58de8bde0846.png">
 To make the best use of this project, make sure the following libraries are installed. 
 
   - pip install pytesseract [An optical character recognition (OCR) tool for python which recognizes and reads the image embedded text.]
